@@ -12,21 +12,29 @@ EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
+		iis|Any CPU = iis|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{F2B9A47F-12D3-4AC3-8E75-E80D03A35D77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{F2B9A47F-12D3-4AC3-8E75-E80D03A35D77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2B9A47F-12D3-4AC3-8E75-E80D03A35D77}.iis|Any CPU.ActiveCfg = iis|Any CPU
+		{F2B9A47F-12D3-4AC3-8E75-E80D03A35D77}.iis|Any CPU.Build.0 = iis|Any CPU
 		{F2B9A47F-12D3-4AC3-8E75-E80D03A35D77}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F2B9A47F-12D3-4AC3-8E75-E80D03A35D77}.Release|Any CPU.Build.0 = Release|Any CPU
 		{7A941794-6535-4141-ABEB-DA58281C6D50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{7A941794-6535-4141-ABEB-DA58281C6D50}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7A941794-6535-4141-ABEB-DA58281C6D50}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{7A941794-6535-4141-ABEB-DA58281C6D50}.iis|Any CPU.ActiveCfg = iis|Any CPU
+		{7A941794-6535-4141-ABEB-DA58281C6D50}.iis|Any CPU.Build.0 = iis|Any CPU
+		{7A941794-6535-4141-ABEB-DA58281C6D50}.iis|Any CPU.Deploy.0 = iis|Any CPU
 		{7A941794-6535-4141-ABEB-DA58281C6D50}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7A941794-6535-4141-ABEB-DA58281C6D50}.Release|Any CPU.Build.0 = Release|Any CPU
 		{7A941794-6535-4141-ABEB-DA58281C6D50}.Release|Any CPU.Deploy.0 = Release|Any CPU
 		{9D62A227-E6E8-4A50-ADC5-4EC3792167BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{9D62A227-E6E8-4A50-ADC5-4EC3792167BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D62A227-E6E8-4A50-ADC5-4EC3792167BC}.iis|Any CPU.ActiveCfg = iis|Any CPU
+		{9D62A227-E6E8-4A50-ADC5-4EC3792167BC}.iis|Any CPU.Build.0 = iis|Any CPU
 		{9D62A227-E6E8-4A50-ADC5-4EC3792167BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9D62A227-E6E8-4A50-ADC5-4EC3792167BC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
